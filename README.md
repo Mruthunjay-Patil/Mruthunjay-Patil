@@ -1,6 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:123B36,100:1F6B58&height=190&section=header&text=MRUTHUNJAY%20V%20PATIL&fontSize=38&fontColor=F5F5F0&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:123B36,100:1F6B58&height=200&section=header&text=MRUTHUNJAY%20V%20PATIL&fontSize=38&fontColor=F5F5F0&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=14" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238A80&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Database+%26+Backend+Enthusiast;Building+Projects+That+Matter)](https://git.io/typing-svg)
 
 ### Hi there, I'm Mruthunjay 👋
 
@@ -23,37 +25,47 @@ I enjoy building practical applications, designing reliable database systems, an
 - 🗄️ Working with **PostgreSQL**, relational schemas, SQL queries, and data integrity
 - 🌱 Continuously learning and improving my skills in modern web technologies and cloud
 - 🤝 Interested in collaborating on useful software projects
+- 📍 Based in Karnataka, India
+
+---
 
 ## 🧰 Languages & Tools
 
 ### Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### Cloud, Tools & Platforms
+
 <p>
-<img src="https://skillicons.dev/icons?i=azure,firebase,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
 </p>
+
+---
 
 ## 💼 Experience
 
-**Database Team Member — XCEL Corp**
+### Database Team Member — XCEL Corp
 
 *Conversational AI Project*
 
@@ -62,60 +74,102 @@ I enjoy building practical applications, designing reliable database systems, an
 - Implementing primary keys, foreign keys, relationships, and indexing.
 - Writing and testing SQL queries for user-specific chat and message retrieval.
 - Using pgAdmin to manage database objects, execute scripts, and validate results.
+- Collaborating on database design, access control, and additional application modules.
+
+---
 
 ## 🛠️ Featured Projects
 
 ### 1. EventSphere
-Event and wedding marketplace connecting customers with service vendors, including booking and payment workflows.
 
-**Tech Stack:** React, Node.js, MongoDB
+An event and wedding marketplace connecting customers with service vendors.
 
-[View Project →](https://github.com/Mruthunjay-Patil/Eventsphere)
+**Key Features:**
+- Customer and vendor management.
+- Vendor service listings and approval workflow.
+- Event service discovery and booking management.
+- Payment integration and booking tracking.
+- Dedicated admin dashboard.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+[![EventSphere](https://img.shields.io/badge/View_Project-EventSphere-238A80?style=for-the-badge&logo=github)](https://github.com/Mruthunjay-Patil/Eventsphere)
 
 ### 2. CraveCart
-Food delivery application featuring user authentication, order management, and order confirmation.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+A food delivery application designed to simplify online food ordering.
 
-[View Project →](https://github.com/Mruthunjay-Patil/CraveCart)
+**Key Features:**
+- User authentication.
+- Food browsing and cart management.
+- Order placement and management.
+- Order confirmation emails.
+- Backend API integration.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+[![CraveCart](https://img.shields.io/badge/View_Project-CraveCart-238A80?style=for-the-badge&logo=github)](https://github.com/Mruthunjay-Patil/CraveCart)
 
 ### 3. Smart Hostel Management
-Desktop-based hostel management application with database connectivity.
+
+A desktop-based hostel management application with database connectivity.
 
 **Tech Stack:** Java, Swing, MySQL
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mruthunjay-Patil&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mruthunjay-Patil&show_icons=true&hide_border=true&theme=transparent&title_color=238A80&icon_color=238A80" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mruthunjay-Patil&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mruthunjay-Patil&layout=compact&hide_border=true&theme=transparent&title_color=238A80" />
 
-<img src="https://streak-stats.demolab.com?user=Mruthunjay-Patil&hide_border=true&theme=transparent" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Mruthunjay-Patil&hide_border=true&theme=transparent&ring=238A80&fire=238A80&currStreakLabel=238A80" />
 
 </div>
 
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mruthunjay-Patil/Mruthunjay-Patil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
-<p>
+<div align="center">
+
 <a href="https://github.com/Mruthunjay-Patil">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/mruthunjay">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:mruthunjayapatil8@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-**"Build. Learn. Improve. Repeat."**
+### 💡 Build. Learn. Improve. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6B58,50:123B36,100:101820&height=100&section=footer" width="100%" />
+*Thanks for visiting my profile!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6B58,50:123B36,100:101820&height=110&section=footer" width="100%" />
 
 </div>
